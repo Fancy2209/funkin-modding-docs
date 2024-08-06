@@ -1,6 +1,6 @@
 # Adding The Custom Song
 
-At the end of [Creating A Chart](02-01-creating-a-chart.md) we learned that `.fnfc` files were just `.zip` archives, so we can simply rename it and unzip it. Once we have thse files, we just need to put them in the correct spots in our mod folder!
+At the end of [Creating A Chart](02-01-creating-a-chart.md) we learned that `.fnfc` files were just `.zip` archives, so we can simply rename it and unzip it. Once we have those files, we just need to put them in the correct spots in our mod folder!
 
 - The `manifest.json` file can be discarded, our mod won't need it.
 - The `metadata.json` and `chart.json` files need to go into the `data/songs/<songid>` folder, replacing `<songid>` with the internal name for our song.
